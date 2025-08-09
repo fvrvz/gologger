@@ -1,3 +1,3 @@
-module github.com/fvrvz/go-logger
+module github.com/fvrvz/gologger
 
 go 1.24.5
